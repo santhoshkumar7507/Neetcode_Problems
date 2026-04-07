@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="NeetCode Journey" width="100%" />
+  <img src="banner.png" alt="NeetCode Journey" width="600" />
 
   # 🚀 Welcome to My NeetCode Vault
 
